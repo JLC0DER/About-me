@@ -10,30 +10,28 @@
 
 # Jose Luis Sanchez
 
-Product Designer focused on structure, systems and meaningful outcomes.
+Product Designer working at the intersection of structure, systems and meaning.
 
 ---
 
 ## About
 
-I design digital products by turning complexity into clear, scalable and intentional experiences.
+I design digital products by navigating complexity and turning it into clear, intentional and scalable experiences.
 
-My approach combines product thinking, visual clarity and systems perspective to create work that feels coherent, useful and long-lasting.
-
-I am particularly interested in:
-- Product design  
-- Design systems  
-- UX and UI clarity  
-- Structured problem solving  
-- Experimental digital concepts  
+My work focuses on structure — not only how things look, but how they behave, connect and evolve over time.
 
 ---
 
-## Background
+## Approach
 
-My work sits at the intersection of design, structure and decision-making.
+I use design as a tool to bring clarity into complexity — structuring systems, shaping decisions and defining how products evolve over time.
 
-I enjoy building experiences that feel simple on the surface while being carefully thought through underneath. I am especially drawn to projects where design is not only about aesthetics, but also about creating order, meaning and direction.
+Not as a layer, but as a way to:
+- make complexity understandable  
+- turn structure into direction  
+- create products that feel coherent, intentional and complete  
+
+Simplicity is not a visual outcome, but the result of precise and deliberate thinking.
 
 ---
 
@@ -42,11 +40,11 @@ I enjoy building experiences that feel simple on the surface while being careful
 I am currently exploring the intersection between design and artificial intelligence through hands-on experimentation.
 
 This includes:
-- vibe coding as a way to rapidly prototype ideas  
-- building agent-based prototypes  
-- understanding how AI can reshape product interactions and workflows  
+- vibe coding as a medium for rapid prototyping  
+- building agent-based systems  
+- exploring how AI reshapes interaction, workflows and product behavior  
 
-I see this as a natural extension of product design, where systems, behavior and interaction become increasingly dynamic.
+I see this as a natural evolution of product design, where systems become dynamic and adaptive.
 
 ---
 
@@ -54,12 +52,10 @@ I see this as a natural extension of product design, where systems, behavior and
 
 Some case studies are protected and available upon request.
 
- LinkedIn: https://www.linkedin.com/in/jose-luis-sanchez-espada/
+LinkedIn → https://www.linkedin.com/in/jose-luis-sanchez-espada/
 
 ---
 
-## Notes
+## —
 
-This repository works as a personal introduction and a lightweight professional profile.
-
-For project access or further context, feel free to reach out via LinkedIn.
+This repository serves as a lightweight introduction and a reflection of how I think about design.
